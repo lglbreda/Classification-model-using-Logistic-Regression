@@ -80,7 +80,7 @@ O desempenho do modelo é avaliado através de:
 
 ## Estrutura do Projeto
 
-    LB_Caso_Pratico_Modelo_Reg_Log/
+    Modelo_Reg_Log/
     │
     ├── dataset/
     │   └── titanic_v2.csv
