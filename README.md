@@ -1,4 +1,4 @@
-#  LB_Caso_Pratico_Modelo_Reg_Log
+#  Modelo_Reg_Log
 
 ## Descrição do Projeto
 
